@@ -1,4 +1,5 @@
 # What is EDA(Exploratory Data Analysis)
+
 EDA is a technique used by the data scientits to analyze and investigate data sets and summerize thier main Characteristics, often employing data Visualization Methods.<br>
 EDA is primarily used to see what data can reveal beyond the formal modeling or hypothesis testing task and provides a better understanding of data set variables and the relationships between them. 
 It can also help determine if the statistical techniques you are considering for data analysis are appropriate. Originally developed by American mathematician John Tukey in the 1970s, EDA techniques continue
@@ -18,3 +19,4 @@ Multivariate nongraphical: Multivariate data arises from more than one variable.
 cross-tabulation or statistics.<br>
 4. Multi Variate Graphical<br>
 Multivariate data uses graphics to display relationships between two or more sets of data.<br>
+<h1>By Shariph Thapa</h1>
