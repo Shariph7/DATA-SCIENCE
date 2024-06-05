@@ -35,3 +35,4 @@ A data scientist can use a range of different techniques, tools, and technologie
 A data scientist’s role and day-to-day work vary depending on the size and requirements of the organization. While they typically follow the data science process, the details may vary. In larger data science teams, a data scientist may work with other analysts, engineers, machine learning experts, and statisticians to ensure the data science process is followed end-to-end and business goals are achieved. 
 <br><br>
 However, in smaller teams, a data scientist may wear several hats. Based on experience, skills, and educational background, they may perform multiple roles or overlapping roles. In this case, their daily responsibilities might include engineering, analysis, and machine learning along with core data science methodologies. <br>
+<h1>By Shariph Thapa</h1>
